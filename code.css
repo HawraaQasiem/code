@@ -1,0 +1,107 @@
+body{
+
+    background-image: url("photo_2020-10-27_22-32-12.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    font-style: italic;
+    font-family: MvBoli;
+    font-weight: bolder;
+    margin: 0px auto;
+    width:60%;
+    
+
+}
+
+.header p {
+
+    background-color: rgb(252, 172, 238);
+    opacity: 0.8;
+    margin-top: 40px;
+    height: 40px;
+    padding: 20px 0px 0px 20px ;
+    border-radius: 10px;
+    border: 10px solid rgba(189, 182, 182, 0.938);
+
+
+}
+
+a{
+
+    float: right;
+    padding-right: 20px;
+    text-decoration: none;
+ }
+
+
+.body {
+    background-color: rgb(252, 172, 238);
+    border-radius: 10px;
+    text-align: center;
+    opacity: 0.8;
+    padding:30px 0px 30px 0px;
+    margin:0px 100px;
+    border: 10px solid rgba(189, 182, 182, 0.938);
+
+
+}
+
+.body img{
+
+    width: 400px;
+    height: 200px;
+
+}
+
+.comment,.book {
+
+    text-align:center;
+    background-color: rgb(192, 192, 192);
+    opacity: 0.8;
+    border-radius: 10px;
+    margin:0px 100px;
+    padding-top:10px ;
+  
+}
+.comment input{
+
+    width: 400px;
+    height: 100px;
+    
+}
+.book {
+
+    text-align: left;
+    margin: 20px 30px 20px 0px;
+    padding: 40px 60px;
+}
+
+
+li{
+    display: inline-block;
+    background-color: blueviolet;
+    opacity: 0.8;
+    padding: 20px;
+    margin-top: 15px;
+    border-radius: 10px;
+    
+}
+ul{
+    margin:0 auto;
+  
+}
+.inf a{
+    text-decoration: none;
+    color: cornsilk;
+    text-align: center;
+    font-weight: bolder;
+
+}
+
+.text{
+    color: crimson;
+    text-align: center;
+}
+.submit{
+    text-align: center;
+    
+}
